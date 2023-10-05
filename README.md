@@ -20,3 +20,5 @@ Reports:
     - Hover over a Platform's data bar to view its: \
       o Top 3 Publishers \
       o Top 3 Video Game Earners
+
+![image](https://github.com/rcp25/PBI-VideoGameSales/assets/12735715/112a01a2-cf74-4ae3-96d9-fd4e81988db7)
